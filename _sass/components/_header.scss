@@ -54,7 +54,7 @@
 }
 
 .header__brand {
-  & > svg {
+  & > img {
     width: map-get($base, font-size-h4) * 1.6;
     height: map-get($base, font-size-h4) * 1.6;
     margin-right: .8rem;
